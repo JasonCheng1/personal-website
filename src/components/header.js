@@ -2,6 +2,7 @@ import { Link } from "gatsby"
 import styled from "@emotion/styled"
 import PropTypes from "prop-types"
 import React from "react"
+import Resume from "../Resume.pdf"
 
 const Content = styled.div`
   max-width: 860px;
@@ -76,11 +77,11 @@ const Header = ({ siteTitle }) => (
   <SiteHeader>
     <Content>
       <p>
-        <HomeLink to="/">{siteTitle}</HomeLink>
+        <HomeLink to="/">Home</HomeLink>
         <NavLink to="/blog">Blog</NavLink>
-        <GitHubLink href="https://github.com/niklasmtj/gatsby-starter-julia">
-          GitHub
-        </GitHubLink>
+        <NavLink to="/about">About</NavLink>
+        <NavLink href={Resume}>Resume</NavLink>
+        <GitHubLink href="https://github.com/JasonCheng1">GitHub</GitHubLink>
       </p>
     </Content>
   </SiteHeader>
