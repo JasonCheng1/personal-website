@@ -25,8 +25,6 @@ const PageName = () => (
           Linkedin.
         </a>
       </p>
-
-      <a href={Resume}>Resume</a>
     </>
   </Layout>
 )
