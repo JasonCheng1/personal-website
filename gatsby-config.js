@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Jason Cheng`,
     subtitle: `Aspiring Software Engineer`,
-    description: `A personal website developed with the aid of Gatsby Starter`,
+    description: `Jason Cheng's personal website developed with the aid of Gatsby Starter`,
     author: `@JasonCheng1`,
   },
   plugins: [

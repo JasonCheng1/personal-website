@@ -16,7 +16,8 @@ const PageName = () => (
       </p>
       <p>
         When I am not coding, I like to brush up on my mandarin and badminton
-        skills. I enjoy watching asian dramas and listening to classical music.
+        skills. I enjoy watching Asian dramas and listening to classical music
+        in my free time.
       </p>
       <p> Thank you for reading.</p>
       <p>
