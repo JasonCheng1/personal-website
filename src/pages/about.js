@@ -1,5 +1,5 @@
 import React from "react"
-import Resume from "../Jason_Cheng_Resume.pdf"
+import Resume from "../../Jason_Cheng_Resume.pdf"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
