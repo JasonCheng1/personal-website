@@ -37,6 +37,7 @@ const IndexPage = ({ data }) => {
   return (
     <Layout>
       <SEO title="Blog" />
+
       <Content>
         <h1>Blog</h1>
         Coming Soon
